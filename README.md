@@ -1,4 +1,4 @@
-- Third year of computer engineering student, preparing CompTIA Security+ exam and doing hands-on practice through TryHackMe
+- Third course of computer engineering student, developing own projects anytime
   
 - 📫 How to reach me: berlinghieri10@gmail.com
 
