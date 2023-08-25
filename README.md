@@ -3,6 +3,5 @@
 - 📫 How to reach me: berlinghieri10@gmail.com
 
 - Projects to do:
-    - Portfolio
     - App frontend for API with Flask
     - Web scrapping
