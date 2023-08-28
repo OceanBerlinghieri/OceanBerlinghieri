@@ -9,5 +9,8 @@
       2. return render-template
       3. return data with html escaping
       4. static files for style.css
+    
+    - Create and API with Flask
+    - Create frontend for my own API 
          
     - Web scrapping
