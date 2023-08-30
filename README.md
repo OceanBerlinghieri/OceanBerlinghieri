@@ -3,7 +3,7 @@
 - I'm a student of third degree in Computer Engineering living in Spain.
 Interested in IA and Operative Systems and web app development. I hope my career will focus on these topics, training models and developing on the machine learning field.
 
-###Contact
+### Contact
 - 📫 How to reach me: berlinghieri10@gmail.com
 - Linkedin: https://es.linkedin.com/in/oceanberlinghieri
 
