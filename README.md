@@ -6,8 +6,3 @@ Interested in IA and Operative Systems and web app development. I hope my career
 ### Contact
 - 📫 How to reach me: berlinghieri10@gmail.com
 - Linkedin: https://es.linkedin.com/in/oceanberlinghieri
-
-#### Projects to do:
-- Webapp for public API with Flask
-- Create and API with Flask
-- Create frontend for my own API
