@@ -1,24 +1,29 @@
-# Hi, I'm Ocean Berlinghieri 👋
+I’m a Data Engineer with a strong focus on Artificial Intelligence, DevOps, and Big Data. I’ve worked with a range of technologies and platforms, helping me build efficient and scalable data solutions. I’m also interested in knowledge representation and semantic technologies, especially ontologies, and how they can improve data modeling and metadata management. My goal is to keep learning and work on challenging, data‑driven projects.
 
-I'm a Data Engineer passionate about Artificial Intelligence, DevOps culture, and Big Data. Throughout my career, I have worked with various technologies and platforms that have allowed me to develop efficient and scalable solutions. My goal is to keep learning and contribute to innovative projects in the field of data engineering.
+## 🛠️ Technologies and Tools
+  - Programming Languages: Python, SQL, Scala  
+  - Big Data: Apache Spark  
+  - Cloud Platforms: AWS, Azure  
+  - ETL & Streaming: Kafka for real‑time pipelines  
+  - Orchestration: Kubernetes  
+  - Infrastructure as Code: Terraform, Ansible  
+  - Monitoring & Observability: OpenTelemetry (OTel)  
+  - Data Transformation: DBT (Data Build Tool)  
+  - Data Warehousing: Snowflake  
+  - Knowledge Representation: Ontologies (RDF/OWL), semantic modeling  
 
-## 🌟 Technologies and Tools
-  - Programming Languages: Python, SQL, Scala
-  - Big Data: Apache Spark
-  - Cloud: AWS, Azure
-  - Integration and APIs: Mulesoft
-  - Web Development: Flask
-  - Data Transformation Tools: DBT (Data Build Tool)
-  - Data Warehousing: Snowflake
+## 🧠 Design and Engineering Interests
+I pay close attention to clean, maintainable code and follow SOLID principles when designing data systems, services, and pipelines. I apply these ideas to ETL flows, streaming applications, and orchestration layers to keep them modular, testable, and easier to evolve over time. I’m also curious about how structured software design can work together with ontologies and semantic models to improve data contracts and interoperability.
 
-## 🌱 Always Learning
+## 📚 Continuous Learning
+I’m always looking to grow and stay up to date with new tools and practices. Right now, I’m focusing on:
 
-I am constantly exploring new technologies and methodologies to improve my skills and knowledge. Currently, I am delving into:
+  - Artificial Intelligence and Machine Learning models  
+  - DevOps, automation, and cloud‑native architectures  
+  - Emerging Big Data and streaming tools and patterns  
+  - Ontology design and semantic web technologies  
+  - Observability and tracing with OpenTelemetry in distributed systems  
 
-  - Artificial Intelligence and Machine Learning models
-  - Best practices in DevOps and automation
-  - New tools and technologies in the Big Data ecosystem
-
-## 📫 Contact
+## 📫 Contact Information
   - LinkedIn: www.linkedin.com/in/oceanberlinghieri
   - Email: berlinghieri10@gmail.com
